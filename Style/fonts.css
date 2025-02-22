@@ -1,0 +1,39 @@
+@font-face
+{
+	src:url(fonts/Roboto-Regular.ttf);			/* where its is located */
+	font-family:VTHRegular;							/* wht is the name */
+}
+
+@font-face{src:url(fonts/Roboto-ThinItalic.ttf);font-family:VTHThinItalic;}
+
+@font-face{src:url(fonts/Roboto-Thin.ttf);font-family:VTHThin;}
+
+@font-face{src:url(fonts/Roboto-MediumItalic.ttf);font-family:VTHMediumItalic;}
+
+@font-face{src:url(fonts/Roboto-Medium.ttf);font-family:VTHMedium;}
+
+@font-face{src:url(fonts/Roboto-LightItalic.ttf);font-family:VTHLightItalic;}
+
+@font-face{src:url(fonts/Roboto-Light.ttf);font-family:VTHLight;}
+
+@font-face{src:url(fonts/Roboto-Italic.ttf);font-family:VTHItalic;}
+
+@font-face{src:url(fonts/Roboto-CondensedItalic.ttf);font-family:VTHCondensedItalic;}
+
+@font-face{src:url(fonts/Roboto-Condensed.ttf);font-family:VTHCondensed;}
+
+@font-face{src:url(fonts/Roboto-BoldItalic.ttf);font-family:VTHBoldItalic;}
+
+@font-face{src:url(fonts/Roboto-BoldCondensedItalic.ttf);font-family:VTHBoldCondensedItalic;}
+
+@font-face{src:url(fonts/Roboto-BoldCondensed.ttf);font-family:VTHBoldCondensed;}
+
+@font-face{src:url(fonts/Roboto-Bold.ttf);font-family:VTHBold;}
+
+@font-face{src:url(fonts/Roboto-BlackItalic.ttf);font-family:VTHBlackItalic;}
+
+@font-face{src:url(fonts/Roboto-Black.ttf);font-family:VTHBlack;}
+
+@font-face{src:url(fonts/EuphoriaScript-Regular.ttf);font-family:VTHScript;}
+
+@font-face{src:url(fonts/AckiPreschool.ttf);font-family:VTHPreschool;	}
